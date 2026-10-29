@@ -1,0 +1,15 @@
+node_modules/
+.env
+*.log
+dist/
+__pycache__/
+*.pyc
+*.pkl
+!ml-service/models/model.pkl
+.venv/
+
+*.csv
+*.keras
+*.zip
+ml-service/data/
+ml-service/models/ensemble_model.pkl
